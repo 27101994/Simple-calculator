@@ -1,0 +1,44 @@
+
+
+.container{
+	width: 400px;
+	height: 250px;
+	background-color: rgb(39, 41, 39);
+	margin: auto;
+	border-radius: 10px;
+}
+P{
+	color: white;
+	font-size: 1.5rem;
+	text-align: center;
+	margin: 10px;
+}
+#n1, #n2{
+	width: 380px;
+	height: 50px;
+	margin: 10px;
+	border-radius: 10px;
+	background-color: rgb(19, 123, 209);
+	font-size: 2rem;
+	color: white;
+}
+#operators, #btn{
+	width: 50px;
+	height: 30px;
+	margin: 10px;
+	text-align: center;
+	background-color: rgb(168, 29, 157);
+	border-radius: 10px;
+	color: white;
+	font-size: 1.5rem;
+}
+#result{
+	height: 30px;
+	width: 200px;
+	margin: 10px;
+	border-radius: 10px;
+	background-color: rgb(15, 209, 63);
+	font-size: 1.5rem;
+	color: red;
+
+}
